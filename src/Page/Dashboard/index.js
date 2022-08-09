@@ -28,7 +28,7 @@ function Dashboard() {
             {!isAdding && !isEditing && (
                 <>
             <Header
-            setAdding={setAdding}
+            setisAdding={setisAdding}
             />
             <ListEmployee
             employees={employees}
