@@ -38,8 +38,8 @@ function Dashboard() {
             </>
             )
             }
-{/*add*/}
-         {isAdding&& (
+            {/*add*/}
+            {isAdding&& (
             <Add
             employees={employees}
             setEmployees={setEmployees}
@@ -48,8 +48,8 @@ function Dashboard() {
             )
             }
 
-{/*Edit*/}
-{isEditing && (
+            {/*Edit*/}
+            {isEditing && (
             <Edit
             employees={employees}
             setEmployees={setEmployees}
