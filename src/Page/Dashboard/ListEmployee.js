@@ -3,7 +3,7 @@ import React from 'react'
 function ListEmployee() {
   return (
     <div class='contain-table'>
-      <table class="striped-table">
+      <table class="striped-table table-dark">
     <thead>
       <tr>
         <th>Head 1</th>
