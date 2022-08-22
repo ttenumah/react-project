@@ -1085,6 +1085,7 @@ table {
   border-spacing: 0;
   width: 100%;
   max-width: 100%;
+  
 }
 
 thead th {
@@ -1114,6 +1115,7 @@ caption {
 .striped-table tbody tr:nth-child(odd) {
   background-color: #f8f8f8;
 }
+  
 
 .contain-table {
   overflow-x: auto;
