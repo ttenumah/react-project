@@ -2,8 +2,8 @@ import React from 'react'
 
 function ListEmployee() {
   return (
-    <div className='contain-table'>
-      <table class="table table-bordered table-dark">
+    <div class='contain-table'>
+      <table class="striped-table">
     <thead>
       <tr>
         <th>Head 1</th>
